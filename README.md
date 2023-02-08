@@ -1,6 +1,6 @@
 ### Hi there 👋
 -----
-I'm a Master's student at the University of Calgary working in network neuroscience. Coming from a physics and theoretical computer science background I love learning about how systems work and how we can improve current infrastructures using data. 
+I'm currently a Master's student at the University of Calgary working on network neuroscience with human brain data. Coming from a physics and theoretical computer science background I love learning about how systems work and how we can improve current infrastructures using data. In my spare time I paint and draw and go out hiking in the mountains. 
 
 
 <!--
