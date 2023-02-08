@@ -1,4 +1,7 @@
 ### Hi there 👋
+-----
+I'm a Master's student at the University of Calgary working in network neuroscience. Coming from a physics and theoretical computer science background I love learning about how systems work and how we can improve current infrastructures using data. 
+
 
 <!--
 **xiningchen/xiningchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
