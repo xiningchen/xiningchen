@@ -1,8 +1,8 @@
 ### Hi there 👋
 -----
-I'm currently a Master's student at the University of Calgary working on network neuroscience with human brain data. Coming from a physics and theoretical computer science background I love learning about how systems work and how we can improve current infrastructures using data. In my spare time I paint and draw and go out hiking in the mountains. 
+I'm a network neuroscientist in Emma Towlson's lab at the University of Calgary. My current projects are with human brain network (connectome) data. With a physics and theoretical computer science background I love learning about how systems work and how we can improve current infrastructures using data. In my spare time I paint and draw and go out hiking in the mountains. 
 
-
+I want to get into AI/ML and NLP so I'm starting to work on mini projects related to the two. 
 <!--
 **xiningchen/xiningchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
