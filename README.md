@@ -1,6 +1,6 @@
 ### Hi there 👋
 -----
-I'm a network neuroscientist in Emma Towlson's lab at the University of Calgary. My current projects are related to the human brain network (connectome) and I'm using network science approaches to look for early signs of vulnerability. With a physics and theoretical computer science background I love learning about how systems work and how we can improve current infrastructures using data. In my spare time I paint and draw and go out hiking in the mountains. 
+I'm a network neuroscientist in Emma Towlson's lab at the University of Calgary. My current projects are related to the human brain network (connectome) and I'm using network science approaches to look for early signs of vulnerability in these networks. With a physics and theoretical computer science background I love learning about how systems work and how we can improve current infrastructures using data. In my spare time I paint and draw and go out hiking in the mountains. 
 
 I want to get into AI/ML and NLP so I'm starting to work on mini projects related to the two. 
 <!--
