@@ -1,8 +1,9 @@
 ### Hi there 👋
 -----
-I'm a network neuroscientist in Emma Towlson's lab at the University of Calgary. My current projects are related to the human brain network (connectome) and I'm using network science approaches to look for early signs of vulnerability in these networks. With a physics and theoretical computer science background I love learning about how systems work and how we can improve current infrastructures using data. In my spare time I paint and draw and go out hiking in the mountains. 
+I'm a full stack web developer with a background in computer science and physics. I enjoy developing sleek frontend reactive websites in Angular and using .NET 8 and EF to build web APIs. Before entering the world of web development, I researched early signs of vulnerability in the human brain using network theory and prior to that, I researched in quantum algorithms. What excites me most is tackling challenging problems and developing elegant algorithmic solutions. 
 
-I want to get into AI/ML and NLP so I'm starting to work on mini projects related to the two. 
+In my spare time I paint, draw and go out hiking in the mountains. Oh and I have an adorable kitty cat who keeps me company. 
+
 <!--
 **xiningchen/xiningchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
