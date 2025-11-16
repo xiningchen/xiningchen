@@ -1,6 +1,6 @@
 ### Hi there 👋
 -----
-I'm a full stack web developer with a background in computer science and physics. I enjoy developing sleek frontend reactive websites in Angular and using .NET 8 and EF to build web APIs. Before entering the world of web development, I researched early signs of vulnerability in the human brain using network theory and prior to that, I researched in quantum algorithms. What excites me most is tackling challenging problems and developing elegant algorithmic solutions. 
+I'm a full stack web developer with a background in computer science and physics. I enjoy developing sleek frontend reactive websites in Angular and using ASP .NET and EF to build web APIs. Before entering the world of web development, I researched early signs of vulnerability in the human brain using network theory and prior to that, I researched in quantum algorithms. What excites me most is tackling challenging problems and developing elegant algorithmic solutions. 
 
 In my spare time I paint, draw and go out hiking in the mountains. Oh and I have an adorable kitty cat who keeps me company. 
 
